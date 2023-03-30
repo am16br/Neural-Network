@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Feb 26 15:06:20 2022
-
-@author: Venkat Bhaskar
-"""
 import tensorflow as tf
 import keras
 from tensorflow.keras.datasets import mnist
